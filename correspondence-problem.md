@@ -7,7 +7,7 @@ Learning Dense Correspondence via 3D-guided Cycle Consistency
 https://people.eecs.berkeley.edu/~tinghuiz/papers/cvpr16_cycle.pdf
 
 - - -
-Generic 3D Representation via Pose Estimation and Matching . 
+Generic 3D Representation via Pose Estimation and Matching  
 http://cvgl.stanford.edu/papers/zamir_eccv16.pdf    
 ProjectPage: http://3drepresentation.stanford.edu/
 
