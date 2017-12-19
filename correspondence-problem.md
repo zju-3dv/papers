@@ -14,7 +14,8 @@ ProjectPage: http://3drepresentation.stanford.edu/
 - - -
 AnchorNet: A Weakly Supervised Network to Learn Geometry-sensitive Features For Semantic Matching
 https://arxiv.org/abs/1704.04749  
-[Comments](https://github.com/zjurv/papers/issues/3)
+[Comments](https://github.com/zjurv/papers/issues/3)  
+> Xiaowei: test
 
 - - -
 Self-Supervised Visual Descriptor Learning for Dense Correspondence
